@@ -3,6 +3,12 @@ Redfish tools for Fujitsu iRMC
 
 # iRMC-Redfish-Tools  
 
+## Important: This toolset is now available at [Github of Fujitsu](https://github.com/fujitsu/iRMCtools).
+### This site will no longer be maintained!
+---
+
+
+
 Here is a script to automatically mount some Update-DVD-ISO-Image using the Redfish API of Fujitsu iRMC in order to update Fujitsu PRIMERGY servers.
  
 The number of tools/scripts will increase over time ...
