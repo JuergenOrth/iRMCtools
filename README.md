@@ -1,6 +1,3 @@
-# iRMCtools
-Redfish tools for Fujitsu iRMC
-
 # iRMC-Redfish-Tools  
 
 ## Important: This toolset is now available at [Github of Fujitsu](https://github.com/fujitsu/iRMCtools).
